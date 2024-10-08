@@ -2,7 +2,7 @@
 =====================================
 ### Overview
 This is a Next.js portfolio website for Kajol Sutra Dhar, a software developer and
-data scientist. The website showcases her skills, experience, and projects.
+data scientist. The website showcases his skills, experience, and projects.
 ### Features
 * Responsive design for desktop and mobile devices
 * Navigation menu with links to different sections of the website
