@@ -20,14 +20,14 @@ data scientist. The website showcases his skills, experience, and projects.
 * HTML
 ### Setup
 To run the website locally, follow these steps:
-1. Clone the repository using `git clone https://github.com/kajol-sutra-dhar
-2. Install the dependencies using `npm install` or `yarn install`
-3. Start the development server using `npm run dev` or `yarn dev`
+1. Clone the repository using 
+```bash
+git clone https://github.com/the-sankari/nextjs-portfolio.git
+```
+2. Install the dependencies using `pnpm install` `
+3. Start the development server using `pnpm dev` `
 4. Open your web browser and navigate to `http://localhost:3000`
-### Deployment
-To deploy the website to a production environment, follow these steps:
-1. Build the website using `npm run build` or `yarn build`
-2. Deploy the website to a hosting platform such as Vercel or Netlify
+
 ### Contributing
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and
 submit a pull request with your changes.
